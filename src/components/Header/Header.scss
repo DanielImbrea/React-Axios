@@ -1,0 +1,11 @@
+.header {
+  &__inner {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    i {
+      margin-right:30px;
+      font-size:60px;    
+    }
+  }
+}
